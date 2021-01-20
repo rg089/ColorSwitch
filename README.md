@@ -3,7 +3,7 @@
 <p align="center"><b><i>Design and Implementation in JavaFX by Rishabh Gupta.</b></i></p>
 </br></br>
 
-<h1 align="center"> :tv: Demo </h1>
+<h1 align="center"> :tv: Some Features </h1>
 <p align="center">
   <img src="demo.gif" alt="demo" />
 </p>
