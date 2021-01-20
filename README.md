@@ -19,16 +19,13 @@
 <h1 align="center"> :chart_with_downwards_trend: Set-Up Instructions </h1>
 <p align="center">
 <i>:boom: Open the ColorSwitch folder as the project in IntelliJ Idea</br>
-:boom: Go to ``` File > Project Structure > Project Settings > Libraries ``` and add the path to the ``` JavaFX > lib ```</br>
+:boom: Go to ```File > Project Structure > Project Settings > Libraries``` and add the path to the ```JavaFX > lib```</br>
 :boom: Refer to <a href = "https://youtu.be/BHj6zbH3inI?t=395">this link</a> for clarification</br>
-:boom: Also add ``` ColorSwitch/resources/libraries/controlsfx-8.40.14.jar ``` to libraries</br>
-:boom: Go to ``` Run > Edit Configurations ``` and add the following to ``` VM Options ``` - </br>
-&emsp; &emsp; &emsp; &ensp; :heavy_plus_sign:
-```
---module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml
---add-exports=javafx.base/com.sun.javafx.event=ALL-UNNAMED
---add-modules javafx.controls,javafx.media
-```
+:boom: Also add ```ColorSwitch/resources/libraries/controlsfx-8.40.14.jar``` to libraries</br>
+:boom: Go to ```Run > Edit Configurations``` and add the following to ```VM Options``` - </br>
+&emsp; &emsp; &emsp; &ensp; :heavy_plus_sign:```--module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml```</br>
+<tab>:heavy_plus_sign: ```--add-exports=javafx.base/com.sun.javafx.event=ALL-UNNAMED```</br>
+<tab>:heavy_plus_sign: ```--add-modules javafx.controls,javafx.media```</br>
 :boom: Run ```ColorSwitch/src/sample/Main.java```
 </i>
 </p>
