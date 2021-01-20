@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Arc?>
+<?import javafx.scene.shape.Circle?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="656.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Arc fill="#ff1f1f" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="115.0" radiusY="115.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="DODGERBLUE" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="115.0" radiusY="115.0" startAngle="90.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#fdff1f" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="115.0" radiusY="115.0" startAngle="180.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Arc fill="#00860d" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="115.0" radiusY="115.0" startAngle="270.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Circle fill="WHITE" layoutX="341.0" layoutY="214.0" radius="100.0" stroke="WHITE" strokeType="INSIDE" />
+   </children>
+</AnchorPane>

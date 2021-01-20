@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="page5" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="500.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <ImageView fitHeight="165.0" fitWidth="194.0" layoutX="171.0" layoutY="479.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@back3.png" />
+         </image></ImageView>
+      <ImageView fitHeight="177.0" fitWidth="189.0" layoutX="180.0" layoutY="247.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@play1.jpg" />
+         </image>
+      </ImageView>
+      <Text fill="#04d3f8" fontSmoothingType="LCD" layoutX="34.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="GAME ">
+         <font>
+            <Font size="75.0" />
+         </font>
+      </Text>
+      <Text fill="#04d3f8" fontSmoothingType="LCD" layoutX="172.0" layoutY="171.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PAUSED!">
+         <font>
+            <Font size="77.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

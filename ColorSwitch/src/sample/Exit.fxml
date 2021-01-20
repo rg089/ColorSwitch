@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <ImageView fitHeight="430.0" fitWidth="635.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="10.0">
+         <image>
+            <Image url="@exit.png" />
+         </image>
+      </ImageView>
+      <Button mnemonicParsing="false" onAction="#saveGame" text="SAVE" AnchorPane.bottomAnchor="250.0" AnchorPane.leftAnchor="260.0" AnchorPane.rightAnchor="280.0" AnchorPane.topAnchor="165.0" />
+      <Button layoutX="260.0" layoutY="160.0" mnemonicParsing="false" onAction="#mainMenu" text="NOT SAVE" AnchorPane.bottomAnchor="195.0" AnchorPane.leftAnchor="260.0" AnchorPane.rightAnchor="280.0" AnchorPane.topAnchor="220.0" />
+   </children>
+</AnchorPane>

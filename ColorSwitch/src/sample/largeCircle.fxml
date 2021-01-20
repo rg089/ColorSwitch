@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Arc?>
+<?import javafx.scene.shape.Circle?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="656.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.singleCircle">
+   <children>
+      <Arc fx:id="qs1" fill="#ff1f1f" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="155.0" radiusY="155.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Arc fx:id="qs2" fill="DODGERBLUE" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="155.0" radiusY="155.0" startAngle="90.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Arc fx:id="qs3" fill="#fdff1f" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="155.0" radiusY="155.0" startAngle="180.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Arc fx:id="qs4" fill="#00860d" layoutX="341.0" layoutY="214.0" length="90.0" radiusX="155.0" radiusY="155.0" startAngle="270.0" stroke="WHITE" strokeType="INSIDE" type="ROUND" />
+      <Circle fx:id="fs" fill="WHITE" layoutX="341.0" layoutY="214.0" radius="140.0" stroke="WHITE" strokeType="INSIDE" AnchorPane.bottomAnchor="98.0" AnchorPane.leftAnchor="201.0" AnchorPane.rightAnchor="175.0" AnchorPane.topAnchor="74.0" />
+   </children>
+</AnchorPane>

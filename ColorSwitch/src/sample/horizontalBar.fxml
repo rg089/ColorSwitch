@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="452.0" prefWidth="656.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fdff1f" height="15.0" layoutX="244.0" layoutY="130.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1f1f" height="15.0" layoutX="97.0" layoutY="131.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="15.0" layoutX="146.0" layoutY="131.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#009407" height="15.0" layoutX="49.0" layoutY="132.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ee0000" height="15.0" layoutX="195.0" layoutY="130.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#009407" height="15.0" layoutX="290.0" layoutY="129.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="15.0" layoutX="340.0" layoutY="129.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fdff1f" height="15.0" layoutX="390.0" layoutY="129.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ee0000" height="15.0" layoutX="440.0" layoutY="129.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#009407" height="15.0" layoutX="490.0" layoutY="129.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="15.0" layoutX="540.0" layoutY="129.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fdff1f" height="15.0" layoutX="590.0" layoutY="130.0" stroke="WHITE" strokeType="INSIDE" width="50.0" />
+   </children>
+</AnchorPane>

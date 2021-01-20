@@ -1,0 +1,4 @@
+.idea/
+ColourSwitch/*.txt
+ColourSwitch/saved/**
+!ColourSwitch/saved/Unknown
