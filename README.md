@@ -37,5 +37,14 @@
 </p>
 </br></br>
 
-<p align="center"><b><i>***Thank you and I hope that you liked this project.***</b></i></p>
+<h1 align="center">:pray: Thanks!</h1>
+<p align="center">
+  <b>All contributions are welcome and appreciated. :+1: </b>
+  <br><br>
+  <img src="https://media3.giphy.com/media/eN4AxQLFu8gM96uvXd/giphy.gif" alt="bye" width=20% height=20%><br>
+  <b> BYE! </b><br><br>
+  <a href="https://github.com/rg089"><img src="https://i.ibb.co/M5Z4dcQ/logo4.png" alt="logo" border="0" width=7% height=7%></a>
+  <br>
+  <b><i>Rishabh Gupta :copyright:</b></i>
+</p>
 
